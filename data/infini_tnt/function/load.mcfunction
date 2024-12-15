@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"DANGER: Infini TNT datapack is loaded. Use ","color":"red"},{"text":"/kill @e[type=tnt]","bold":true,"color":"yellow","clickEvent":{"action":"run_command","value":"/kill @e[type=tnt]"},"hoverEvent":{"action":"show_text","contents":"Click this to run the stop command."}},{"text":" to stop it.","color":"red"}]

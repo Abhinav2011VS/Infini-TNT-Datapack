@@ -1,0 +1,1 @@
+execute as @e[type=tnt, nbt={fuse:1s}] at @s run function infini_tnt:double
